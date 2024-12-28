@@ -12,7 +12,7 @@ public class LoginPage {
 	ElementUtil ele; 
 	   
 	
-	   private By registerPage=By.id("register");
+	  
 	   private	By username=By.id("username");
 	   private	By password=By.id("password");
 		private By submit=By.id("submit");
